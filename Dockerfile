@@ -1,5 +1,5 @@
 #Dockerfile
-# Start with a base image containing Java runtime
+# Start with a base image containing Java
 FROM openjdk:8-jdk-alpine
 
 # Add a volume pointing to /tmp
